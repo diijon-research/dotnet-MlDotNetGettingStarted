@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/src/Console/bin/Debug/netcoreapp2.1/Console.dll",
+            "program": "${workspaceFolder}/src/SnailAge/bin/Debug/netcoreapp2.1/SnailAge.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/src/Console",
+            "cwd": "${workspaceFolder}/src/SnailAge",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,
