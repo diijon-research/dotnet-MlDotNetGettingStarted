@@ -6,4 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ML" Version="*"/>
   </ItemGroup>
+  <ItemGroup>
+      <None Include="$(ProjectDir)data\abalone.data.txt" CopyToOutputDirectory="PreserveNewest"/>
+  </ItemGroup>
 </Project>
